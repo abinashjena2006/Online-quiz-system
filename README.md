@@ -6,7 +6,7 @@ An Online Quiz and Competitive Exam Platform built using HTML, CSS, JavaScript, 
 ## 📸 Project Preview
 
 ### 🏠 Homepage
-![Homepage](assets/home.png)
+[![Homepage](assets/homepage.png)](https://abinashjena2006.github.io/QuizCraft/)
 
 ---
 
