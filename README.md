@@ -20,16 +20,11 @@ An Online Quiz and Competitive Exam Platform built using HTML, CSS, JavaScript, 
 
 [🔗 Open Quiz Page](https://abinashjena2006.github.io/QuizCraft/frontend/quiz.html)
 
-[![Quiz Page](assets/quiz.png)](https://abinashjena2006.github.io/QuizCraft/frontend/quiz.html)
-
 ---
 
 ## 📊 Result Page
 
 [🔗 Open Results](https://abinashjena2006.github.io/QuizCraft/frontend/result.html)
-
-[![Result Page](assets/result.png)](https://abinashjena2006.github.io/QuizCraft/frontend/result.html)
-
 
 ---
 
@@ -37,16 +32,12 @@ An Online Quiz and Competitive Exam Platform built using HTML, CSS, JavaScript, 
 
 [🔗 Open Leaderboard](https://abinashjena2006.github.io/QuizCraft/frontend/leaderboard.html)
 
-[![Leaderboard](assets/leaderboard.png)](https://abinashjena2006.github.io/QuizCraft/frontend/leaderboard.html)
-
 ---
 
 
 ## 👨‍💼 Admin Dashboard
 
 [🔗 Open Admin Dashboard](https://abinashjena2006.github.io/QuizCraft/frontend/admin.html)
-
-[![Admin Dashboard](assets/admin-dashboard.png)](https://abinashjena2006.github.io/QuizCraft/frontend/admin.html)
 
 ---
 
