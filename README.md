@@ -12,6 +12,8 @@ An Online Quiz and Competitive Exam Platform built using HTML, CSS, JavaScript, 
 
 ## 🔐 Login Page
 
+[🔗 Open Login Page](https://abinashjena2006.github.io/QuizCraft/frontend/login.html)
+
 [![Login Page](assets/login.png)](https://abinashjena2006.github.io/QuizCraft/frontend/login.html)
 
 ---
